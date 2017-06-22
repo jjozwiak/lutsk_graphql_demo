@@ -1,1 +1,1 @@
-# lutsk_graphql_demo
+# Lutsk Graphql Demo

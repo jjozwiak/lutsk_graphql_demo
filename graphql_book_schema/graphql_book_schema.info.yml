@@ -1,0 +1,7 @@
+name: GraphQL Schema for Book Content Type
+type: module
+description: Provides a custom GraphQL Schema for the Book Content Type.
+core: 8.x
+#package: custom
+dependencies:
+  - graphql
